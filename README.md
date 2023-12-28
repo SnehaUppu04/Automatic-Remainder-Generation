@@ -4,7 +4,7 @@ This is an NLP application that records user's conversations and extracts remind
 
 To start using the program, clone the repository 
 ```
-git clone https://github.com/ksk-dgkr/Automatic-Remainder-Generation.git
+git clone https://github.com/SnehaUppu04/Automatic-Remainder-Generation.git
 ```
 Install necessary requirements
 ```
